@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, grpc, kotlin, kotlin-application, logback, readme, shade, spock, yaml]
